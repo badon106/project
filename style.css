@@ -1,0 +1,26 @@
+.sub-title{
+    background-color: rgb(65, 37, 110);
+    padding: 10px;
+    text-align: center;
+    color: #ebebeb;
+} 
+.single-post{
+    width: 1024px;
+    background: #ebebeb;
+    padding: 15px;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;    
+}
+    .image-1{
+            max-width: 100%;
+    }
+    .text{
+       
+    }
+    .badon{
+        border-radius: 100%;
+        width: 40px;
+        height: 40px;
+  
+    }
